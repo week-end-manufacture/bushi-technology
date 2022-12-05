@@ -1,7 +1,5 @@
 # bushi-technology
 
-## Author: JO HYUK JUN
-
 ## Introduction
 - python flask example
 
